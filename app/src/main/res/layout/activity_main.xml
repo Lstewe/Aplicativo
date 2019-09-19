@@ -75,7 +75,6 @@
         android:textSize="20sp"
         android:layout_margin="10dp"
         android:backgroundTint="#B22222"
-
         />
 
 
